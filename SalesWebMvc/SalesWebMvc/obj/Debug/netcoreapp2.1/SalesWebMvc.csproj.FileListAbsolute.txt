@@ -62,4 +62,3 @@ C:\Users\SIVALDO\WEBCSHARP\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Sales
 C:\Users\SIVALDO\WEBCSHARP\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 C:\Users\SIVALDO\WEBCSHARP\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\SIVALDO\WEBCSHARP\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-C:\Users\SIVALDO\WEBCSHARP\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
